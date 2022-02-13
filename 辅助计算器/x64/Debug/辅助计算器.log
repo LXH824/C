@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\範刷\OneDrive\C语言\辅助计算器\源.cpp(61,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\範刷\OneDrive\C语言\辅助计算器\源.cpp(62,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  辅助计算器.vcxproj -> C:\Users\範刷\OneDrive\C语言\辅助计算器\x64\Debug\辅助计算器.exe
